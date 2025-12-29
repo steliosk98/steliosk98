@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on **an end of the world offline AI knowledge seed**
+- 🔭 I'm currently working on **a Binance & OpenAI day trading bot**
 
 - 🌱 I'm currently learning **AWS Cloud Infrastructures**
 
