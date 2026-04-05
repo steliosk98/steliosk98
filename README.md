@@ -4,9 +4,9 @@
 
 - 🔭 I'm currently working on **a Binance & Polymarket day trading bot**
 
-- 🌱 I'm currently learning **AWS Cloud Infrastructures**
+- 🌱 I'm currently learning **Advanced SQL**
 
-- 💬 Ask me about **PHP, WordPress and APIs**
+- 💬 Ask me about **WordPress, APIs, and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
