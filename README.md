@@ -46,8 +46,9 @@
 ## Contributions at Work GitHub Account
 
 <p align="center">
-
-![Light](https://steliosk98.github.io/getGitHubContributions/assets/contributions-light.svg#gh-light-mode-only)
-![Dark](https://steliosk98.github.io/getGitHubContributions/assets/contributions-dark.svg#gh-dark-mode-only)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://steliosk98.github.io/getGitHubContributions/assets/contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://steliosk98.github.io/getGitHubContributions/assets/contributions-light.svg">
+    <img alt="Work GitHub contributions chart" src="https://steliosk98.github.io/getGitHubContributions/assets/contributions-light.svg">
+  </picture>
 </p>
