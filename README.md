@@ -42,3 +42,9 @@
   <a href="https://www.unrealengine.com" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" width="40" height="40"/></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
 </p>
+
+## Contributions at Work GitHub Account
+
+<p align="left">
+  <img src="https://steliosk98.github.io/getGitHubContributions/assets/contributions.svg" alt="Work GitHub contributions chart" />
+</p>
