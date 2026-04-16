@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on **a Binance & Polymarket day trading bot**
+- 🔭 I'm currently working on **a Sport Shooting Personal Site**
 
 - 🌱 I'm currently learning **Advanced SQL**
 
