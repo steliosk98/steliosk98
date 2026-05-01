@@ -1,4 +1,4 @@
-# Hi 👋, I'm Stelios Kiliaris
+# Hi 👋, I'm Stelios 
 
 ### A passionate developer
 
