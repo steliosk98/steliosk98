@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on **a Sport Shooting Personal Site**
+- 🔭 I'm currently working on **a Binance Quant Dashboard**
 
 - 🌱 I'm currently learning **Advanced SQL**
 
