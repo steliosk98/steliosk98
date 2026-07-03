@@ -4,9 +4,9 @@
 
 - 🔭 I'm currently working on **a Binance Quant Dashboard**
 
-- 🌱 I'm currently learning **Advanced SQL**
+- 🌱 I'm currently learning **AWS Certified Cloud Practitioner**
 
-- 💬 Ask me about **WordPress, APIs, and Web Development**
+- 💬 Ask me about **Web Apps, WordPress, APIs, and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
