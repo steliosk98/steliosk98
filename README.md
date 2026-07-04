@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on **a Binance Quant Dashboard**
+- 🔭 I'm currently working on **a Gate.io Agentic Trading Dashboard**
 
 - 🌱 I'm currently learning **AWS Certified Cloud Practitioner**
 
