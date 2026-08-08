@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **AWS Certified Cloud Practitioner**
 
-- 💬 Ask me about **Web Apps, WordPress, APIs, and Web Development**
+- 💬 Ask me about **WordPress, Web Apps, APIs, Docker and Deployments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
